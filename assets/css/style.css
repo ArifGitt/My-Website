@@ -34,7 +34,7 @@ a {
   color: inherit;
 }
 
-
+ 
 html {
   font-size: 62.5%;
   overflow-x: hidden;
@@ -46,7 +46,7 @@ html::-webkit-scrollbar-track {
   background: rgb(235, 202, 245);
 }
 html::-webkit-scrollbar-thumb {
-
+   
   background: #420177;
   border-radius: 10px; /* Adjust this value to your preference */
 }
@@ -219,7 +219,7 @@ header .navbar ul li a:hover {
   height: 100%;
   width: 100%;
 }
-
+ 
 .home .image {
   flex: 1 1 40rem;
   z-index: 1;
@@ -655,7 +655,7 @@ header .navbar ul li a:hover {
 /* education section ends */
 
 /* work section starts */
-
+ 
 
 
 
@@ -680,19 +680,19 @@ header .navbar ul li a:hover {
 }
 
 .work .box {
-
+  
   background: #f9f9f9;
   border-radius: 10px;
   overflow: hidden;
   width: 415px;
   height: auto;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-
+  
 }
 
 .work .box img {
-
-
+  
+  
   width: 100%; /* Responsive width */
   max-width: 415px; /* Cap the maximum width */
   height: auto; /* Let the height adjust automatically */
@@ -702,14 +702,14 @@ header .navbar ul li a:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
   transition: transform 0.3s ease-in-out; /* Smooth transition for the zoom effect */
 }
-
+ 
 
 .work .box img:hover {
   transform: scale(1.2); /* Slight zoom on hover */
 }
 
 .work .box .content {
-
+  
   padding: 1rem;
   font-size: 15px;
   font-family: Arial, sans-serif;
