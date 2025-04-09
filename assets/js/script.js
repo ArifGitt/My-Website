@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["flutter development","android development", "ios development"],
+    strings: ["Flutter development","Android development", "iOS development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
